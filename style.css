@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+h1{
+    color:red
+}
+
+
+card-aluno{
+    color: blue;
+    
+}
+
+.container{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
